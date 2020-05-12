@@ -1,0 +1,1 @@
+C:\Prasanta\Projects\HelloUWP\HelloUWP\HelloUWP.csproj;x86
